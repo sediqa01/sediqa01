@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Sediqa👋</h1>
 <p align="center">🌟 Passionate Frontend Developer</p>
 
-<p align="left">Greetings! I'm a self-deiven Frontend Developer based in Germany, driven by a relentless passion for crafting software solution.
+<p align="left">Greetings! I'm a self-driven Frontend Developer based in Germany, driven by a relentless passion for crafting software solution.
 My journey took a transformative turn with a Full Stack Software Development diploma, specializing in Advanced Frontend, from Code Institute.
-Throughout my time at Code Institute, I had been working on 5 portfolio projects, each showcasing my coding and software development skills. These projects span a wide spectrum, from a static site called "Ms. Cook Restaurant" to a full stack social media platform for Python developers known as "Pythonista" If you're curious about the development process and the technologies behind these projects, I encourage you to browse their repositories and delve into the detailed ReadMe.md files. 
+Throughout my time at Code Institute, I've been working on 5 portfolio projects, each showcasing my coding and software development skills. These projects span a wide spectrum, from a static site called "Ms. Cook Restaurant" to a full stack social media platform for Python developers known as "Pythonista" If you're curious about the development process and the technologies behind these projects, I encourage you to browse their repositories and delve into the detailed ReadMe.md files. 
   
   1. [Ms Cook Restaturant](https://github.com/sediqa01/ms-cook-restaurant)
   2. [Word Guessing Game](https://github.com/sediqa01/Word-Guessing-Game)

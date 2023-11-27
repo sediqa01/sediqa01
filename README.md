@@ -8,7 +8,7 @@ Throughout my time at Code Institute, I've been working on 5 portfolio projects,
   1. [Ms Cook Restaturant](https://github.com/sediqa01/ms-cook-restaurant)
   2. [Word Guessing Game](https://github.com/sediqa01/Word-Guessing-Game)
   3. [ATM System](https://github.com/sediqa01/atm-system)
-  4. [NewsTime website](https://github.com/sediqa01/news_time)
+  4. [NewsTime website](https://github.com/sediqa01/News-Aggregator)
   5. [Pythonista](https://github.com/sediqa01/pythonista_app)
 
 One aspect of my journey that I'm truly passionate about is the Agile development process. In fact, my 4th and 5th portfolio projects were developed with a strong commitment to Agile principles

@@ -6,10 +6,10 @@ My journey took a transformative turn with a Full Stack Software Development dip
 Throughout my time at Code Institute, I've been working on 5 portfolio projects, each showcasing my coding and software development skills. These projects span a wide spectrum, from a static site called "Ms. Cook Restaurant" to a full stack social media platform for Python developers known as "Pythonista" If you're curious about the development process and the technologies behind these projects, I encourage you to browse their repositories and delve into the detailed ReadMe.md files. 
   
   1. [Ms Cook Restaturant](https://github.com/sediqa01/ms-cook-restaurant)
-  2. [Word Guessing Game](https://github.com/sediqa01/Word-Guessing-Game)
-  3. [ATM System](https://github.com/sediqa01/atm-system)
-  4. [NewsTime website](https://github.com/sediqa01/News-Aggregator)
-  5. [Pythonista](https://github.com/sediqa01/pythonista_app)
+
+  2. [ATM System](https://github.com/sediqa01/atm-system)
+  3. [NewsTime website](https://github.com/sediqa01/News-Aggregator)
+  4. [Pythonista](https://github.com/sediqa01/pythonista_app)
 
 One aspect of my journey that I'm truly passionate about is the Agile development process. In fact, my 4th and 5th portfolio projects were developed with a strong commitment to Agile principles
 In a rapidly evolving tech landscape, I see every challenge as an opportunity and view software development as not just a profession, but a lifelong passion.
@@ -45,8 +45,6 @@ In a rapidly evolving tech landscape, I see every challenge as an opportunity an
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/sediqa01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sediqa01" height="50" width="50" /></a>
